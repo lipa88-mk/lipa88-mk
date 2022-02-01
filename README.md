@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @lipa88-mk
-- 👀 I’m interested in HTML/CSS/JS
-- 📫 How to reach me: 
--- by email korshunova_mk@list.ru
--- by telegram: https://t.me/mk_masha
+👋 **Hi there**
+
+✨ I’m Mariia 
+
+👀 I’m interested in HTML/CSS/JS
+
+📫 How to reach me: 
+- by email: korshunova_mk@list.ru
+- by telegram: https://t.me/mk_masha
 
 <!---
 lipa88-mk/lipa88-mk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
