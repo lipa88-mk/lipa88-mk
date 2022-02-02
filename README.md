@@ -1,8 +1,21 @@
-👋 **Hi there**
+## Hi there 👋 
 
-✨ I’m Mariia 
+✨ I’m **Korshunova Mariia**
 
-👀 I’m interested in HTML/CSS/JS
+- Developer
+- Teacher
+- Author
+- Mentor
+
+❤ love my dog corgi, roadtrips and snowboarding 
+
+👀 I’m interested in: HTML/CSS/JS
+
+🎯 I’m currently learning: JS frameworks
+
+
+
+🐱‍🏍 For students: you can look for some code demos in my [CodePen](https://codepen.io/lipa88)
 
 📫 How to reach me: 
 - by email: korshunova_mk@list.ru
