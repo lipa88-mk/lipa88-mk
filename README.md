@@ -7,11 +7,11 @@
 - Author
 - Mentor
 
-❤ love my dog corgi, roadtrips and snowboarding 
+❤ love my corgi dog, roadtrips and snowboarding (i'm also certified snowboard instructor)
 
-👀 I’m interested in: HTML/CSS/JS
+👀 I’m interested in: HTML/CSS/JS and UX/UI design
 
-🎯 I’m currently learning: JS frameworks
+🎯 I’m currently learning: React JS
 
 
 
