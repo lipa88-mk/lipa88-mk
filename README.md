@@ -2,10 +2,9 @@
 
 ✨ I’m **Korshunova Maria**
 
-- Developer
-- Teacher
-- Author
-- Mentor
+- UI Developer
+- Author (SEO for FE, JS for kids, FE basics, CSS and JS animations for middle FE)
+- Mentor (GeekBrains, HTMLAcademy, Netology, Otus)
 
 ❤ love my corgi dog, roadtrips and snowboarding (i'm also certified snowboard instructor)
 
@@ -13,7 +12,13 @@
 
 🎯 I’m currently learning: React JS
 
+You can check my progress  here: 
 
+[![roadmap.sh](https://roadmap.sh/card/wide/669105d27fc121949a27bf02?variant=dark)](https://roadmap.sh)
+
+
+
+---- 
 
 🐱‍🏍 For students: 
 - you can look for some demos in my [CodePen](https://codepen.io/lipa88)
