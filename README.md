@@ -1,23 +1,61 @@
-## Hi there 👋 
+# Maria Korshunova
 
-✨ I’m **Korshunova Maria**
+### Design Engineer — I build design systems, from Figma variables to versioned packages.
 
-- Frontend UI Developer
-- Author (SEO for FE, JS for kids, FE basics, CSS and JS animations for middle FEs)
-- Mentor (Brunoyam, GeekBrains, HTMLAcademy, Netology, Otus)
+14 years in web development · 4 years owning a component library in B2B SaaS · Belgrade, Serbia
 
-❤ love my corgi dog, roadtrips, and snowboarding (I'm also a certified snowboard instructor)
+[Design system](https://lipa88-mk.github.io/components-library/) · [LinkedIn](https://www.linkedin.com/in/mariia-k/) · [CodePen](https://codepen.io/lipa88) · [YouTube](https://youtube.com/@FrontendSkills)
 
-👀 I’m interested in: HTML/CSS/JS/React and UX/UI design
+---
 
-You can check my progress here: 
+## Work
 
-[![roadmap.sh](https://roadmap.sh/card/wide/669105d27fc121949a27bf02?variant=light&roadmaps=css%2Creact%2Ctypescript%2Cdesign-system)](https://roadmap.sh)
+### 🧩 [Design system](https://lipa88-mk.github.io/components-library/)
 
-Check more on [roadmap.sh](https://roadmap.sh/u/mariakor)
+Token-driven component library. Figma variables flow through Tokens Studio and
+Style Dictionary into React components, documented in Storybook and released
+with SemVer. Built as a public counterpart to the system I owned at Solveva,
+where it served two engineering teams and three products.
 
----- 
+**[Live Storybook](https://lipa88-mk.github.io/components-library/)** · **[Figma file (in progress)](#)** 
 
-For students: 
-- You can look for some demos in my [CodePen](https://codepen.io/lipa88)
-- Also check out my [YouTube channel](https://youtube.com/@FrontendSkills) for some training videos
+`React` · `TypeScript` · `Design Tokens` · `Style Dictionary` · `Storybook` · `Tailwind`
+
+---
+
+### ♿ Accessibility rebuild — *in progress*
+
+Auditing a production-scale interface against WCAG 2.2 AA and rebuilding what
+fails: semantic structure, keyboard navigation, focus management, screen-reader
+behaviour.
+
+---
+
+## What I work on
+
+**Design systems** — token architecture, component APIs built for reuse,
+versioning that doesn't break downstream teams.
+
+**Accessibility** — WCAG 2.2 AA, semantic HTML, keyboard navigation, ARIA,
+screen readers.
+
+**Modern CSS** — cascade layers, container queries, `color-mix()`,
+scroll-driven animations, subgrid.
+
+**Teaching** — 4,200+ code reviews and 50+ webinars at OTUS, where I hired and
+led five mentors. Authored the CSS & JS animation course at HTML Academy and a
+JavaScript course for kids.
+
+---
+
+## Elsewhere
+
+**[CodePen](https://codepen.io/lipa88)** — CSS experiments and layout demos
+**[YouTube — Frontend Skills](https://youtube.com/@FrontendSkills)** — tutorials on CSS and layout
+
+---
+
+Belgrade, Serbia. Open to Design Engineer and UI Engineer roles — remote or
+hybrid. Reach me on [LinkedIn](https://www.linkedin.com/in/mariia-k/).
+
+````
