@@ -17,6 +17,9 @@ Style Dictionary into React components, documented in Storybook and released
 with SemVer. Built as a public counterpart to the system I owned at Solveva,
 where it served two engineering teams and three products.
 
+<img width="1285" height="660" alt="image" src="https://github.com/user-attachments/assets/ee993ff9-f291-4134-9ee8-b1c0e5786ca8" />
+
+
 **[Live Storybook](https://lipa88-mk.github.io/components-library/)** · **[Figma file (in progress)](#)** 
 
 `React` · `TypeScript` · `Design Tokens` · `Style Dictionary` · `Storybook` · `Tailwind`
