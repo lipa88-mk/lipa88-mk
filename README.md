@@ -2,7 +2,7 @@
 
 ### Design Engineer — I build design systems, from Figma variables to versioned packages.
 
-14 years in web development · 4 years owning a component library in B2B SaaS · Belgrade, Serbia
+in web development since 2011 · 4 years owning a React component library · Belgrade, Serbia
 
 [Design system](https://lipa88-mk.github.io/components-library/) · [LinkedIn](https://www.linkedin.com/in/mariia-k/) · [CodePen](https://codepen.io/lipa88) · [YouTube](https://youtube.com/@FrontendSkills)
 
@@ -20,7 +20,7 @@ where it served two engineering teams and three products.
 <img width="1285" height="660" alt="image" src="https://github.com/user-attachments/assets/ee993ff9-f291-4134-9ee8-b1c0e5786ca8" />
 
 
-**[Live Storybook](https://lipa88-mk.github.io/components-library/)** · **[Figma file (in progress)](#)** 
+**[Live Storybook](https://lipa88-mk.github.io/components-library/)** 
 
 `React` · `TypeScript` · `Design Tokens` · `Style Dictionary` · `Storybook` · `Tailwind`
 
