@@ -61,4 +61,3 @@ JavaScript course for kids.
 Belgrade, Serbia. Open to Design Engineer and UI Engineer roles — remote or
 hybrid. Reach me on [LinkedIn](https://www.linkedin.com/in/mariia-k/).
 
-````
